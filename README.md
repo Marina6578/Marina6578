@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Marina6578
-- I have just submitted my PhD Thesis in Environmental Science in Australia, also holding degrees in biology (B.S.) 1996-2001 and environmental engineering (M.S.) 2004-2006
+- I have just submitted my PhD Thesis in Environmental Science in Australia (2026)
+- My background is in biology (B.S.) 1996-2001 and environmental engineering (M.S.) 2004-2006
 -  I have been working in Government and industry for around 2 decades with coastal planning and environmental assessments, currently at the Brazilian Federal Governmenmt
 - 👀 I’m interested in Environmental Management, Climate Change, Blue economy and Marine Spatial Planning
 - 🌱 I use GitHub for my PhD projects and for my projects Repositories in Government
